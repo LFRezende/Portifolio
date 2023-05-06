@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../Downloads/Orbitron"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Portifolio"
+	}
+}
